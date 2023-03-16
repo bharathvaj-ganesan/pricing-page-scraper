@@ -8,7 +8,7 @@ const poppins = Poppins({ weight: '800', subsets: ['latin'] });
 export default function Header() {
   return (
     <div className="flex items-center justify-between px-3 sm:px-3">
-      <a className="flex items-center space-x-3" href="https://pricing-page-scrapper.vercel.app/">
+      <a className="flex items-center space-x-3" href="https://pricing-page-scraper.vercel.app/">
         <svg className="h-10 w-10" fill="none" stroke="currentColor" strokeWidth="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
           <path
             strokeLinecap="round"
@@ -20,7 +20,7 @@ export default function Header() {
           <span className="text-rose-500">Pricing</span> Scraper
         </h2>
       </a>
-      <a href="https://github.com/bharathvaj-ganesan/pricing-page-scrapper" rel="noreferrer noopener" target="_blank" className="">
+      <a href="https://github.com/bharathvaj-ganesan/pricing-page-scraper" rel="noreferrer noopener" target="_blank" className="">
         <Github width="33" height="33" />
       </a>
     </div>

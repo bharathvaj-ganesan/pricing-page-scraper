@@ -3,8 +3,8 @@ import Document, { Head, Html, Main, NextScript } from 'next/document';
 class MyDocument extends Document {
   render() {
     let description = 'Scrape SaaS pricing page in seconds.';
-    let ogimage = 'https://pricing-scrapper.vercel.app/og-image.png';
-    let sitename = 'pricing-page-scrapper.vercel.app';
+    let ogimage = 'https://pricing-scraper.vercel.app/og-image.png';
+    let sitename = 'pricing-page-scraper.vercel.app';
     let title = 'Pricing page Scraper';
 
     return (

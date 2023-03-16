@@ -1,8 +1,8 @@
-# [Pricing Page Scraper](https://pricing-scrapper.vercel.app/)
+# [Pricing Page Scraper](https://pricing-scraper.vercel.app/)
 
 This project scrapes pricing pages of SaaS products for you using AI.
 
-[![Pricing Page Scraper](./public/screenshot.png)](https://pricing-scrapper.vercel.app)
+[![Pricing Page Scraper](./public/screenshot.png)](https://pricing-scraper.vercel.app)
 
 ## How it works
 
@@ -30,4 +30,4 @@ npm run dev
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bharathvaj-ganesan/pricing-page-scrapper&project-name=pricing-page-scrapper&repo-name=pricing-page-scrapper)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bharathvaj-ganesan/pricing-page-scraper&project-name=pricing-page-scraper&repo-name=pricing-page-scraper)

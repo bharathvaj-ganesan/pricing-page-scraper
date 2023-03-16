@@ -2,7 +2,7 @@ export default function StarGithub() {
   return (
     <a
       className="mb-5 flex max-w-fit items-center justify-center space-x-2 rounded-full border border-gray-500 bg-gray-900 px-4 py-2 text-center text-sm text-white shadow-md transition-colors hover:bg-gray-800"
-      href="https://github.com/bharathvaj-ganesan/pricing-page-scrapper"
+      href="https://github.com/bharathvaj-ganesan/pricing-page-scraper"
       target="_blank"
       rel="noopener noreferrer"
     >
