@@ -8,7 +8,7 @@
   "dependencies": {
     "@next/font": "^13.1.5",
     "@upstash/redis": "^1.20.0",
-    "@vercel/analytics": "^0.1.8",
+    "@vercel/analytics": "^0.1.11",
     "clsx": "^1.2.1",
     "eventsource-parser": "^0.1.0",
     "framer-motion": "^9.0.1",
