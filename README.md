@@ -14,7 +14,7 @@ This project uses the [OpenAI GPT-3.5 API](https://openai.com/api/) (specificall
 
 [ ] - Add API support
 
-[ ] - Ability to have interactive with frequency and currency toggles.
+[ ] - Ability to have interaction with frequency and currency toggles and scrape.
 
 ## Running Locally
 
